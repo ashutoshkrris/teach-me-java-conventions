@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="powerpackage.PowerFinderTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-01-11T10:23:14" hostname="ASHUTOSH-PC" time="0.005">
+  <properties/>
+  <testcase name="testTwoRaisedToOne" classname="powerpackage.PowerFinderTest" time="0.003"/>
+  <testcase name="testTwoRaisedToTwo" classname="powerpackage.PowerFinderTest" time="0.0"/>
+  <testcase name="testOneRaisedToOne" classname="powerpackage.PowerFinderTest" time="0.0"/>
+  <testcase name="testThreeRaisedToTwo" classname="powerpackage.PowerFinderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
